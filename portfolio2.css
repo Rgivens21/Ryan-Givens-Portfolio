@@ -72,10 +72,13 @@ body{
      margin-left: 33%;
      margin-right: 2%;
  }
-
- .project1:hover {
-    color: red;
+ h2 a {
+     color:darkblue;
  }
+
+h2 a:hover {
+    color: cornsilk;
+}
  .project2:hover {
      background-color: khaki;
  }
