@@ -16,7 +16,7 @@ layout is in line with what I visually enjoy. I is my hope that it meets the sta
 the viewer as well.
 
 
-It can be found here
+It can be found here:
 
 <a href="https://rgivens21.github.io./">
 
